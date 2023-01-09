@@ -9,7 +9,10 @@ function AboutPage(props) {
       <div className='about'>
         <h1>About This Project</h1>
         <p>This is a React app to leave feedback for a product or service</p>
-        <p>Version: 1.0.0</p>
+        <p>In this app, you can add, edit, delete, and even rate your review </p>
+        <p>The output will display: your review and number rating,  number of reviews listed, and a card component that holds the data</p>
+
+        <p>NuCamp Project Portfolio</p>
 
         <p>
           <Link to='/'>Back To Home</Link>
